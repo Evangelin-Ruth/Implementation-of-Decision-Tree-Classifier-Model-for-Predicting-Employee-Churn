@@ -49,19 +49,20 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 */
 ```
 ## Output:
-## data.head()
-![image](https://user-images.githubusercontent.com/94219798/169461979-71ab14ec-08a9-4c76-b256-92a0217e4329.png)
-## data.info()
-![image](https://user-images.githubusercontent.com/94219798/169462170-f98bf4bb-dd6c-4554-adde-a2ae60bbc118.png)
-## data.head() using label encoder
-![image](https://user-images.githubusercontent.com/94219798/169462320-27fe40e5-213e-44f9-9989-ecac710edee7.png)
-## x.head()
-![image](https://user-images.githubusercontent.com/94219798/169462564-736475b3-dcf5-460a-b2e8-80cb4cc2cb2d.png)
 
+## data.head()
+![image](https://user-images.githubusercontent.com/94219798/172996273-5a7f547b-b321-4c61-b76c-f0b11e00046d.png)
+## data.info()
+![image](https://user-images.githubusercontent.com/94219798/172996307-a3db7453-39ba-4a9a-9d1e-79baefe9a19c.png)
+## data.head() using label encoder
+![image](https://user-images.githubusercontent.com/94219798/172996352-cbcc82b3-7374-4d2b-99db-2b642b9f4860.png)
+## x.head()
+![image](https://user-images.githubusercontent.com/94219798/172996385-5641210e-9444-4662-aa38-58a8f5fb1110.png)
 ## accuracy
-![image](https://user-images.githubusercontent.com/94219798/169462705-c87352f2-b094-4990-8d0e-f370ffdd75fd.png)
+![image](https://user-images.githubusercontent.com/94219798/172996438-eaa73490-f292-42e0-8b49-889cf5a1a282.png)
 ## PREDICTION
-![image](https://user-images.githubusercontent.com/94219798/169462825-3ba84c1c-9b34-4974-b075-81666ce8e390.png)
+![image](https://user-images.githubusercontent.com/94219798/172996463-381a39df-9092-460c-96de-ac4a7dab8111.png)
+
 
 
 ## Result:
